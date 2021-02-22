@@ -1,4 +1,4 @@
-# CCOM4029-Project-1 by Jeann Carlos Hernandez Franco 22/Feb/2021
+# CCOM4029-Project-1 by Jeann Carlos Hernandez
 This is a DataCamp project! It was meant to be used as an general introduction to projects in Datacamp.
 # Projects Contents
 -Very basic R code desinged as an intro to Datacamp
